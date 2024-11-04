@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "jxufeCPlusHomework", "jxufeCPlusHomework\jxufeCPlusHomework.csproj", "{6A2C1825-4ECA-4EE8-B823-4AD1691D1E78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jxufeCPlusHomework02", "jxufeCPlusHomework02\jxufeCPlusHomework02.csproj", "{06CE7ED5-C1FA-4220-BF0C-9B533B973AC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A2C1825-4ECA-4EE8-B823-4AD1691D1E78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A2C1825-4ECA-4EE8-B823-4AD1691D1E78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A2C1825-4ECA-4EE8-B823-4AD1691D1E78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A2C1825-4ECA-4EE8-B823-4AD1691D1E78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06CE7ED5-C1FA-4220-BF0C-9B533B973AC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06CE7ED5-C1FA-4220-BF0C-9B533B973AC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06CE7ED5-C1FA-4220-BF0C-9B533B973AC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06CE7ED5-C1FA-4220-BF0C-9B533B973AC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFF4CE5E-4165-4013-8632-ECAB8A0BE609}
+	EndGlobalSection
+EndGlobal
